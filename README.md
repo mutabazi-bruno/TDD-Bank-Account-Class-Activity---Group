@@ -7,7 +7,7 @@ This is a class activity where we built a simple `BankAccount` class in C# follo
 ## Project structure
 
 - **BankAccountLib/** — Contains the `BankAccount` class with three methods: `Deposit`, `Withdraw`, and `GetBalance`.
-- **BankAccountTests/** — Contains 11 NUnit tests that cover all the requirements.
+- **BankAccountTests/** — Contains 10 NUnit tests that cover all the requirements.
 
 ## Requirements we implemented
 
@@ -34,7 +34,7 @@ dotnet test .\BankAccountTests\
 You should see output like:
 
 ```
-Test summary: total: 11, failed: 0, succeeded: 11, skipped: 0
+Test summary: total: 10, failed: 0, succeeded: 10, skipped: 0
 ```
 
 ## Tests we wrote
